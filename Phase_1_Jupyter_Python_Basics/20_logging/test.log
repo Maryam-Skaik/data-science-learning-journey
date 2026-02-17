@@ -1,0 +1,8 @@
+2026-02-04 18:30:39,894 - DEBUG - sum result = 15
+2026-02-04 18:30:39,895 - DEBUG - subtract result = 5
+2026-02-04 18:30:39,895 - DEBUG - multiply result = 50
+2026-02-04 18:30:39,896 - DEBUG - divide result = 2.0
+2026-02-04 18:31:15,812 - DEBUG - sum result = 35
+2026-02-04 18:31:15,813 - DEBUG - subtract result = 5
+2026-02-04 18:31:15,813 - DEBUG - multiply result = 300
+2026-02-04 18:31:15,814 - DEBUG - divide result = 1.3333333333333333
