@@ -73,7 +73,7 @@ Focuses on **data preparation and analysis**, the core of Data Science.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/data-science-learning-journey.git
+git clone https://github.com/Maryam-Skaik/data-science-learning-journey.git
 cd data-science-learning-journey
 ```
 
